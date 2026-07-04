@@ -7827,7 +7827,7 @@ zinjanthropuses
 zirconium
 zone
 zones
-ZZZZ
+zzzz
 pie-in-the-sky
 ne'er-do-wells
 ne'er-do-well
